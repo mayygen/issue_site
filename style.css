@@ -87,7 +87,6 @@ h5{
 .callOutHeader1{
   background-image: url(photos/msg.jpeg);
   color: #FFF;
-  font-weight: bolder;
   font-size: 48pt;
   background-size: cover;
   background-position: center;
@@ -99,7 +98,6 @@ h5{
 .callOutHeader2{
   background-image: url(photos/noMSG.jpg);
   color: #FFF;
-  font-weight: bolder;
   font-size: 48pt;
   background-size: contain;
   background-position: center;
