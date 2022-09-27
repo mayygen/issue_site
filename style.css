@@ -97,11 +97,11 @@ h5{
 }
 
 .callOutHeader2{
-  background-image: url(photos/noMsg.jpg);
+  background-image: url(photos/noMSG.jpg);
   color: #FFF;
   font-weight: bolder;
   font-size: 48pt;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   -webkit-text-stroke-width: 3px;
   -webkit-text-stroke-color: #4747b3;
