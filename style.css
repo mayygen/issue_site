@@ -101,7 +101,7 @@ h5{
   color: #FFF;
   font-weight: bolder;
   font-size: 48pt;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
   -webkit-text-stroke-width: 3px;
   -webkit-text-stroke-color: #4747b3;
